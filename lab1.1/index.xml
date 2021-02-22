@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<script type="text/javascript"
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
+<xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml"
+                src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+                type="text/javascript"/>
 <?xml-stylesheet type="text/xsl" href="index.xsl"?>
 <строка>
     <операнд>σ</операнд>
